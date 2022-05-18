@@ -7,6 +7,7 @@ import org.springframework.ws.client.core.WebServiceTemplate;
 
 import de.tekup.loan.soap.api.consume.whitetest.StudentRequest;
 import de.tekup.loan.soap.api.consume.whitetest.WhiteTestResponse;
+//Sarra Chaker GLSI-B && Chaima Arfaoui GLSI-A
 
 @Service
 public class SoapClient {
