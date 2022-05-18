@@ -11,6 +11,9 @@ import de.tekup.loan.invoke.client.SoapClient;
 import de.tekup.loan.soap.api.consume.whitetest.StudentRequest;
 import de.tekup.loan.soap.api.consume.whitetest.WhiteTestResponse;
 
+
+//Sarra Chaker GLSI-B && Chaima Arfaoui GLSI-A
+
 @Controller
 public class CheckController {
 	
